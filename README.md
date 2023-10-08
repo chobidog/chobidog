@@ -14,7 +14,7 @@ I love watching sports, especially baseball. In my downtime, I also enjoy relaxi
 
 *(Please specify your interests here.)*
 
-## MyToolsbox(display the i recently used and i intereted)
+## MyToolsbox(display the recently that i used and i interested & learn)
 
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/OS-macOS-lightgray?logo=apple&logoColor=white)
