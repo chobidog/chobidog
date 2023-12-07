@@ -40,7 +40,7 @@ I love watching sports, especially baseball. In my downtime, I also enjoy relaxi
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-black?logo=github&logoColor=white)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk35&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chobidog&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=m&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
