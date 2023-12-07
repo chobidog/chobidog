@@ -44,12 +44,12 @@ I love watching sports, especially baseball. In my downtime, I also enjoy relaxi
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=m&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mk35&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=chobidog&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
-**mk35/mk35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chobidog/chobidog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
