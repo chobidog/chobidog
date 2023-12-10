@@ -8,7 +8,7 @@ I love watching sports, especially baseball. In my downtime, I also enjoy relaxi
 
 ## Music
 
-｛｛ spotify type="track | album | playlist" id="37i9dQZF1E38FJl2x2vmC8?si=1b6e28e232314f98" width="100%" height="250" >}}
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1E38FJl2x2vmC8" width="100%" height="250" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## Interests
 
