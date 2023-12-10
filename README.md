@@ -7,10 +7,10 @@ Hello! I'm an undergraduate student majoring in Computer Science (B2). I plan to
 I love watching sports, especially baseball. In my downtime, I also enjoy relaxing by watching Netflix and YouTube. Recently, I've developed an interest in DIY, and I'd like to explore more in this area. With the growing trend in micro-programming and IoT, I'd be excited to post about such topics here.
 
 ## Interests
--Watching a vids in Youtube or Netflix.
--Watching sports games, particularly baseball, especially MLB. I really enjoy watching Shohei Ohtani play.ITFDB!!
--Playing games (like Pawapuro and Smashers) but I try not to play them often because once I start, it's hard to stop and it gets frustrating
--"I enjoy strength training. My goal is to exceed a one-rep max of 220 lbs. My favorite exercises are barbell squats and overhead presses. 
+- **Watching videos on YouTube or Netflix.**
+- **Watching sports games, particularly baseball, especially MLB.** I really enjoy watching Shohei Ohtani play. ITFDB!!
+- **Playing games (like Pawapuro and Smashers)** but I try not to play them often because once I start, it's hard to stop and it gets frustrating.
+- **I enjoy strength training.** My goal is to exceed a one-rep max of 220 lbs. My favorite exercises are barbell squats and overhead presses.
 
 ## MyToolsbox(display the recently that i used and i interested & learn)
 
