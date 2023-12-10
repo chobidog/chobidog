@@ -8,9 +8,9 @@ I love watching sports, especially baseball. In my downtime, I also enjoy relaxi
 
 ## Interests
 - **Watching videos on YouTube or Netflix.**
-- **Watching sports games, particularly baseball, especially MLB.** I really enjoy watching Shohei Ohtani play. ITFDB!!
-- **Playing games (like Pawapuro and Smashers)** but I try not to play them often because once I start, it's hard to stop and it gets frustrating.
-- **I enjoy strength training.** My goal is to exceed a one-rep max of 220 lbs. My favorite exercises are barbell squats and overhead presses.
+- **Watching sports games, particularly baseball, especially MLB. I really enjoy watching Shohei Ohtani play. ITFDB!!**
+- **Playing games (like Pawapuro and Smashers),but I try not to play them often because once I start, it's hard to stop and it gets frustrating.**
+- **I enjoy strength training.My goal is to exceed a one-rep max of 220 lbs. My favorite exercises are barbell squats and overhead presses.**
 
 ## MyToolsbox(display the recently that i used and i interested & learn)
 
