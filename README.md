@@ -46,7 +46,7 @@ I love watching sports, especially baseball. In my downtime, I also enjoy relaxi
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chobidog&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+)]()
 
 
 <!--
