@@ -24,7 +24,7 @@ I love watching sports, especially baseball. In my downtime, I also enjoy relaxi
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-orange?logo=linux&logoColor=white)
  
-<img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic">
+![next.js]("https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic")
 ![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Language-Shell-black?logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/Language-HTML-E34F26?logo=html5&logoColor=white)
