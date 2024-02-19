@@ -42,7 +42,7 @@ I love watching sports, especially baseball. In my downtime, I also enjoy relaxi
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chobidog&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="!https://github-readme-stats.vercel.app/api?username=chobidog&" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=chobidog" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chobidog&theme=onedark&column=7
