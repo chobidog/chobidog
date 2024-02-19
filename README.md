@@ -17,18 +17,18 @@ I love watching sports, especially baseball. In my downtime, I also enjoy relaxi
 
 ## MyToolsbox(display the recently that i used and i interested & learn)
 
+<p>OS</p>
+
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/OS-macOS-lightgray?logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
- ![Linux](https://img.shields.io/badge/OS-Linux-orange?logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-orange?logo=linux&logoColor=white)
  
-
- ![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Language-Java-red?logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/Language-C%23-purple?logo=c-sharp&logoColor=white)
+<img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic">
+![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Language-Shell-black?logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/Language-HTML-E34F26?logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/Language-CSS-1572B6?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/Language-CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellowgreen?logo=javascript&logoColor=white)
 
 
