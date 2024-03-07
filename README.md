@@ -1,6 +1,6 @@
 ## Hello!👋
 
-Hello! I'm an undergraduate student majoring in Computer Science (B2). I plan to post both my college assignments and personal projects here.
+Hello! I'm an undergraduate student majoring in Computer Science (B3). I plan to post both my college assignments and personal projects here.
 
 ## ❤️Hobbies
 
