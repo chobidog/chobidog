@@ -12,28 +12,6 @@ I use this GitHub to share my university assignments, personal projects, and lea
 - Enjoy building small tools and learning through hands-on projects
 
 
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-black?logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-
-### OS
-![macOS](https://img.shields.io/badge/macOS-lightgray?logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-orange?logo=linux&logoColor=white)
-
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![VSCodium](https://img.shields.io/badge/VSCodium-007ACC?logo=visual-studio-code&logoColor=white)
-![Micro](https://img.shields.io/badge/Micro-blueviolet)
-
-
 ## GitHub Stats
 
-<p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chobidog&layout=compact&count_private=true&show_icons=true" />
-  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=chobidog&show_icons=true" />
-</p>
+[GitHub](https://img.shields.io/badge/Tool-GitHub-black?logo=github&logoColor=white) <p align="left"> <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chobidog&layout=compact&count_private=true&show_icons=true" /> <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=chobidog" /> </p> [![trophy](https://github-profile-trophy.vercel.app/?username=chobidog&theme=onedark&column=7 )]()
